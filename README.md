@@ -1,2 +1,1 @@
-# EDA
-EDA
+# EDA Jupyter notebooks
